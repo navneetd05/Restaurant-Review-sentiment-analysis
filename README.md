@@ -1,1 +1,1 @@
-# Restaurant-Review-sentiment-analysis
+# Restaurant-Reviews-sentiment-analysis
